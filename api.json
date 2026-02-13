@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/zmey",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "zmey",
+    "name": "Zmey - The Slavic Dragon",
+    "aliases": [],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Unknown",
+    "tags": [
+      "studies-of-chaos-monsters-across-cultures."
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The **zmey** (also spelled *zmiy*, *zmaj*, or *żmij*) is a multi-headed dragon from Slavic mythology, distinct from Western European dragons in both appearance and behavior.",
+      "full": "The **zmey** (also spelled *zmiy*, *zmaj*, or *żmij*) is a multi-headed dragon from Slavic mythology, distinct from Western European dragons in both appearance and behavior. The word derives from the Slavic root for \\\"serpent\\\" or \\\"snake\\\" (*zmija*), but the zmey is far more than a mere scaled reptile—it is a shape-shifting supernatural entity with divine or demonic associations, capable of flight, spitting fire, and commanding storms. Unlike the treasure-hoarding, village-destroying dragons of Western European tradition, the Slavic zmey occupies an ambiguous moral space. Some zmey are protectors and culture heroes, while others are malevolent kidnappers and devourers. The zmey can be male (*zmey*) or female (*zmeyitsa*), with different characteristics and behaviors associated with each. The zmey typically possesses multiple heads (commonly three, seven, nine, or twelve), breathes fire, and has the ability to shapeshift into handsome men or beautiful women to seduce humans. These creatures live in mountains, caves, or palaces beyond the known world, and often serve as adversaries to legendary heroes in Slavic epic tales."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
